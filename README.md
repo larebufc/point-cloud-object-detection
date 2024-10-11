@@ -1,4 +1,4 @@
-# Ambiente de Desenvolvimento para Inferência em Nuvens de Pontos com MMDetection3D
+# Detecção e Remoção de Objetos em Cenas de Nuvens de Pontos com MMDetection3D
 
 Este projeto documenta o processo de configuração de um ambiente de desenvolvimento para o processo de inferência de detecção e remoção de objetos em nuvens de pontos, utilizando ferramentas como WSL 2.0, Ubuntu, Miniconda, CUDA Toolkit, PyTorch, MMDetection3D, e outras bibliotecas essenciais.
 
