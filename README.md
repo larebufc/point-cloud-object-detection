@@ -1,6 +1,6 @@
-# Ambiente de Desenvolvimento para Inferência das Nuvens de Pontos com MMDetection3D
+# Ambiente de Desenvolvimento para Inferência em Nuvens de Pontos com MMDetection3D
 
-Este projeto documenta o processo de configuração de um ambiente de desenvolvimento para o processamento de nuvens de pontos, utilizando ferramentas como WSL 2.0, Ubuntu, Miniconda, CUDA Toolkit, PyTorch, MMDetection3D, e outras bibliotecas essenciais.
+Este projeto documenta o processo de configuração de um ambiente de desenvolvimento para o processo de inferência de detecção e remoção de objetos em nuvens de pontos, utilizando ferramentas como WSL 2.0, Ubuntu, Miniconda, CUDA Toolkit, PyTorch, MMDetection3D, e outras bibliotecas essenciais.
 
 ## Índice
 1. [Configuração do WSL 2.0 e Ubuntu 22.04.3 LTS](#configuração-do-wsl-20-e-ubuntu-22043-lts)
